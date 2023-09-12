@@ -33,7 +33,7 @@ jobs:
       with:
         author_name: "Github Actions" 
         author_email: "actions@github.com"
-        message: "Sorted 9 minutes Ago. 🎇"
+        message: "Sorted 6 hours Ago. 🎇"
         add: "."
         push: "https://github.com/VendettaForFreedom/Collection-Config.git"
     env:
